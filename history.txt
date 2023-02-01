@@ -1,0 +1,187 @@
+─(shreejal㉿kali)-[~]
+└─$ history
+    1  sudo apt-update
+    2  sudo apt-get update
+    3  exit
+    4  git clone https://github.com/TheSpeedX/TBomb.git
+    5  cd TBomb
+    6  bash tBomb.sh
+    7  ls
+    8  bash TBomb.sh
+    9  exit
+   10  exiy
+   11  exit
+   12  cd
+   13  exit
+   14  clear
+   15  out
+   16  ?
+   17  sudo ?
+   18  iwconfig
+   19  cd
+   20  cd root
+   21  airmon-ng
+   22  sudo su
+   23  ~
+   24  cd root
+   25  cd
+   26  ~
+   27  clear
+   28  ls
+   29  ls -a
+   30  ls -at
+   31  ls
+   32  sudo
+   33  sudo su
+   34  cd home
+   35  cd /home
+   36  cd /shreejal
+   37  cd shreejal
+   38  cd /home/shreejal
+   39  mkdir test1
+   40  cd test1
+   41  cat testfile.txt
+   42  cat> testfile1.txt
+   43  head testfile1
+   44  head testfile1.txt
+   45  tail testfile1.txt
+   46  cat > testfile2.txt
+   47  head testfile2.txt
+   48  cd
+   49  mkdir test2
+   50  cd test1
+   51  cp testfile1.txt /test2
+   52  pwd
+   53  cp testfile1.txt /home/shreejal/test2
+   54  cd
+   55  cd test2
+   56  ls
+   57  head testfile1.txt
+   58  cat > testfile1.txt
+   59  head testfile1.txt
+   60  ls
+   61  head testfile1.txt
+   62  mv testfile1.txt copiedfile1.txt
+   63  ls
+   64  head copiedfile1.txt
+   65  cd
+   66  rm test2
+   67  rm test1
+   68  cd test1
+   69  rm testfile1.txt
+   70  rmdir test2
+   71  rmdir test1
+   72  cd
+   73  rmdir test1
+   74  rmdir test2
+   75  cd test1
+   76  touch hello.txt
+   77  ls
+   78  locate hello
+   79  locate -i hello
+   80  locate -i hai
+   81  locate -i test2
+   82  cd
+   83  locate -i test1
+   84  cd test1
+   85  locate testfile1.txt
+   86  locate -name testfile1.txt
+   87  ls
+   88  locate -name testfile2.txt
+   89  df 0T
+   90  df -T
+   91  df
+   92  cd
+   93  pwd
+   94  du /home/shreejal/test1
+   95  du /home/shreejal/test2
+   96  cd test1
+   97  ls
+   98  cd
+   99  cd test2
+  100  ls
+  101  cd test2
+  102  du
+  103  ls
+  104  du copiedfile1.txt
+  105  cd
+  106  cd test1
+  107  ls
+  108  du hello.txt
+  109  head hello.txt
+  110  touch hello.txt
+  111  cat > hello.txt
+  112  cat hello.txt renamed.txt
+  113  cat > hello.txt renamed.txt
+  114  mv hello.txt renamed.txt
+  115  ls
+  116  head testfile2.txt
+  117  diff renamed.txt testfile2.txt
+  118  diff testfile2.txt renamed.txt
+  119  ping fb.com
+  120  uname
+  121  uname -a
+  122  top
+  123  history
+  124  man
+  125  man man
+  126  man ls
+  127  cd
+  128  echo "k xa"
+  129  cd test1
+  130  ls
+  131  zip *
+  132  zip testzip.zip *
+  133  ls
+  134  unzip testzip.zip
+  135  ls
+  136  rm testzip.zip
+  137  ls
+  138  zip testzip.zip renamed.txt testfile2.txt
+  139  ls
+  140  hostname
+  141  hostname -i
+  142  hostname -a
+  143  useradd testuser
+  144  sudo su
+  145  su
+  146  cd
+  147  su
+  148  ps
+  149  zsh
+  150  ps
+  151  htop
+  152  history
+  153  sudo su
+  154  history
+  155  cd test1
+  156  history
+  157  cd
+  158  cd /home/shreejal
+  159  pwd
+  160  history
+  161  ls
+  162  ls -z
+  163  ls -a
+  164  ls -at
+  165  ls -al
+  166  history
+  167  history -a
+  168  history tail
+  169  tail history
+  170  ls -a
+  171  ls
+  172  la
+  173  cd .zsh_history
+  174  cd zsh_history
+  175  cd test1
+  176  ls
+  177  ls test2
+  178  cd
+  179  cd test2
+  180  ls
+  181  history
+  182  htop
+  183  top
+  184  history
+  185  fc
